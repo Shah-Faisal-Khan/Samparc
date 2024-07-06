@@ -17,7 +17,8 @@ const Campaigns = () => {
     return (
         <div className="campaigns">
             <div className="campaigntitle">
-                <h3>Active Campaigns</h3>
+                <h6>Latest Causes</h6>
+                <h1>Find The Popular Cause And Donate Them</h1>
             </div>
             <div className="bigContainer">
                 <div className="slider">
@@ -28,9 +29,10 @@ const Campaigns = () => {
                                     <img className="cardimg" src={d.img} alt="" />
                                 </div>
                                 <div className="cardtext">
-                                    <p>{d.name}</p>
-                                    <p>{d.time}</p>
-                                    <h4>5 days left</h4>
+                                    <h2>{d.purpose}</h2>
+                                    <h4>By {d.name}</h4>
+                                    <h4>Progress {d.progress}</h4>
+                                    <button>Donate Now</button>
                                 </div>
                             </div>
                         ))}
@@ -44,44 +46,39 @@ const Campaigns = () => {
 const data = [
     {
         name: `Hon`,
-        img: './images/1.png',
-        time: `lorem ipsum20`
+        img: require('./images/shifaaz-shamoon-MqLy-G-dBi8-unsplash.jpg'),
+        purpose: `Helping the Homeless`,
+        progress: '85%'
     },
     {
         name: `Hon`,
-        img: './images/2.png',
-        time: `lorem ipsum20`
+        img: require('./images/shifaaz-shamoon-MqLy-G-dBi8-unsplash.jpg'),
+        time: `lorem ipsum20`,
+        purpose: `Helping the Homeless`,
+        progress: '85%'
     },
     {
         name: `Hon`,
-        img: './images/1.png',
-        time: `lorem ipsum20`
+        img: require('./images/shifaaz-shamoon-MqLy-G-dBi8-unsplash.jpg'),
+        time: `lorem ipsum20`,
+        purpose: `Helping the Homeless`,
+        progress: '85%'
     },
     {
         name: `Hon`,
-        img: './images/2.png',
-        time: `lorem ipsum20`
+        img: require('./images/shifaaz-shamoon-MqLy-G-dBi8-unsplash.jpg'),
+        time: `lorem ipsum20`,
+        purpose: `Helping the Homeless`,
+        progress: '85%'
     },
     {
         name: `Hon`,
-        img: './images/1.png',
-        time: `lorem ipsum20`
-    },
-    {
-        name: `Hon`,
-        img: './images/2.png',
-        time: `lorem ipsum20`
-    },
-    {
-        name: `Hon`,
-        img: './images/1.png',
-        time: `lorem ipsum20`
-    },
-    {
-        name: `Hon`,
-        img: './images/2.png',
-        time: `lorem ipsum20`
+        img: require('./images/shifaaz-shamoon-MqLy-G-dBi8-unsplash.jpg'),
+        time: `lorem ipsum20`,
+        purpose: `Helping the Homeless`,
+        progress: '85%'
     }
+    
 ];
 
 export default Campaigns;

@@ -7,6 +7,7 @@ import Main from './pages/main';
 import Form from './pages/form';
 import Admin from './pages/admin';
 import PhoneNumberValidation from './pages/phone';
+import ReachOut from './pages/reachout';
 
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
         <Route path='/landing/:userId' element={<Landing/>}/>
         <Route path='/admin' element={<Admin/>}/>
         <Route path="/phone" element={< PhoneNumberValidation/>}/>
+        <Route path='/reachout' element={<ReachOut/>}/>
       </Routes>
     </Router>
     // <PhoneSignUp/>

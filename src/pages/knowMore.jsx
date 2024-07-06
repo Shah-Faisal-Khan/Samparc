@@ -1,7 +1,7 @@
 import React from "react";
-import SocialMedia from "./socialmedia";
+import Sahayaklogo from "./sahayakLogo";
 import Columns from "./columns";
-import DownloadApp from "./downloadApp";
+import Newsletter from "./newsLetter";
 
 const KnowMore = ()=>(
     <div className="knowMore">
@@ -9,15 +9,17 @@ const KnowMore = ()=>(
         
 
         <div className="box">
-        <SocialMedia></SocialMedia>
+        {/* <S></SocialMedia> */}
+        <Sahayaklogo></Sahayaklogo>
+        <div className="footlogo"></div>
         <Columns >
         </Columns>
-        <DownloadApp></DownloadApp>
+        <Newsletter></Newsletter>
         </div>
         
 
         <div className="copyright">
-            <p>Copyright © 2023 Samparc Online Ventures Pvt Ltd. All Rights Reserved. Terms of Use | Privacy Policy | AML Policy | Use of cookies </p>
+            <p>All rights reserved to Sahayak Pvt. Ltd.</p>
         </div>
     </div>
 
