@@ -1,18 +1,26 @@
 {
   "files": {
-    "main.css": "/Samparc/static/css/main.334341c8.css",
-    "main.js": "/Samparc/static/js/main.15136ef1.js",
+    "main.css": "/Samparc/static/css/main.f6257646.css",
+    "main.js": "/Samparc/static/js/main.b9915289.js",
     "static/js/787.6c36d5b7.chunk.js": "/Samparc/static/js/787.6c36d5b7.chunk.js",
-    "static/media/patient.png": "/Samparc/static/media/patient.a5b54e60873f148069c9.png",
+    "static/media/shifaaz-shamoon-MqLy-G-dBi8-unsplash.jpg": "/Samparc/static/media/shifaaz-shamoon-MqLy-G-dBi8-unsplash.99bee539d2d18526f262.jpg",
+    "static/media/olga-guryanova-tMFeatBSS4s-unsplash.jpg": "/Samparc/static/media/olga-guryanova-tMFeatBSS4s-unsplash.98a1a7b5ef80fb3d24c5.jpg",
+    "static/media/jimmy-conover-LtKoW6kh2eE-unsplash.jpg": "/Samparc/static/media/jimmy-conover-LtKoW6kh2eE-unsplash.15f76d0dd702cf2e3719.jpg",
+    "static/media/jimmy-conover-LtKoW6kh2eE-unsplash - Copy.jpg": "/Samparc/static/media/jimmy-conover-LtKoW6kh2eE-unsplash - Copy.1a39efa2d671e3ffcbc7.jpg",
     "static/media/worry.png": "/Samparc/static/media/worry.5f8bf9adca10925caaa1.png",
     "static/media/xfoot.jpg": "/Samparc/static/media/xfoot.72a4e279e275cbc8b7fc.jpg",
     "static/media/upi.png": "/Samparc/static/media/upi.a7a3518453241c265c09.png",
     "static/media/playstore.png": "/Samparc/static/media/playstore.1f52d64f55558a75e62c.png",
     "static/media/graph.png": "/Samparc/static/media/graph.92172d5d66232a89b2b7.png",
+    "static/media/imageedit_6_7363922942.png": "/Samparc/static/media/imageedit_6_7363922942.f3983eb1b1b87751a3d6.png",
     "static/media/appstore.png": "/Samparc/static/media/appstore.22aa8dd94b9d1fab2d4b.png",
     "static/media/darkGreen-removebg-preview.png": "/Samparc/static/media/darkGreen-removebg-preview.bbfc19916ca00ca5498b.png",
+    "static/media/3052613702331.jpg": "/Samparc/static/media/3052613702331.e65a94182c3414519677.jpg",
     "static/media/instafoot.png": "/Samparc/static/media/instafoot.ace5f4a0f2a418d73c41.png",
     "static/media/whatsfoot.png": "/Samparc/static/media/whatsfoot.6d2d6a384262d630322a.png",
+    "static/media/3052613702332.jpg": "/Samparc/static/media/3052613702332.43d3e2a75b8771c5021a.jpg",
+    "static/media/3052613702334.jpg": "/Samparc/static/media/3052613702334.724a1261df155cfe7a57.jpg",
+    "static/media/305261370233.jpg": "/Samparc/static/media/305261370233.4a58b05f574ab9dce067.jpg",
     "static/media/youtubefoot.png": "/Samparc/static/media/youtubefoot.278e508d58b47f9a6994.png",
     "static/media/linkedfoot.png": "/Samparc/static/media/linkedfoot.8702f6b61bd17a035123.png",
     "static/media/slick.svg": "/Samparc/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -20,12 +28,12 @@
     "static/media/slick.ttf": "/Samparc/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/Samparc/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Samparc/index.html",
-    "main.334341c8.css.map": "/Samparc/static/css/main.334341c8.css.map",
-    "main.15136ef1.js.map": "/Samparc/static/js/main.15136ef1.js.map",
+    "main.f6257646.css.map": "/Samparc/static/css/main.f6257646.css.map",
+    "main.b9915289.js.map": "/Samparc/static/js/main.b9915289.js.map",
     "787.6c36d5b7.chunk.js.map": "/Samparc/static/js/787.6c36d5b7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.334341c8.css",
-    "static/js/main.15136ef1.js"
+    "static/css/main.f6257646.css",
+    "static/js/main.b9915289.js"
   ]
 }
