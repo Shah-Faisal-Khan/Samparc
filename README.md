@@ -31,4 +31,4 @@ This repository contains the complete codebase for the Sahayak.co website, a pro
 
 ## See the website
 
-To see how the frontend of the website looks, go to: 
+To see how the frontend of the website looks, go to: 'https://shah-faisal-khan.github.io/Samparc/'
