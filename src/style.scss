@@ -719,7 +719,7 @@ $bluegreen:#76CCBF;
 
 .formbox{
     font-family: 'Poppins',sans-serif;
-    background-color: $bluegreen;
+    background-color: #01142d;
     // height: 100vh;
     padding-top: 70px;
     padding-bottom: 70px;
@@ -749,13 +749,13 @@ $bluegreen:#76CCBF;
         max-width: 700px;
         border-radius: 10px;
         padding: 30px;
-        box-shadow: 0 5px 10px rgba(0,0,0,0.15);
+        box-shadow: 0 5px 10px rgba(0, 0, 0, 0.332);
         // justify-content: center;
         .formtitle{
             padding: 0px;
             font-size: 25px;
             margin-top: 0px;
-            color: #144039;
+            color: #01142d;
             font-weight: 500;
         }
         .Typeof{
@@ -771,7 +771,7 @@ $bluegreen:#76CCBF;
                 height: 40px;
                 padding-left: 20px;
                 border-radius: 5px;
-                border: 1px solid $bluegreen;
+                border: 1px solid #0070ff;
                 border-bottom-width: 2px;
                 transition: all 0.3s ease;
                 color: gray;
@@ -803,7 +803,7 @@ $bluegreen:#76CCBF;
                     align-items: center;
                     width: 90%;
                     border-radius: 5px;
-                    border: 1px solid $bluegreen;
+                    border: 1px solid #0070ff;
                     border-bottom-width: 2px;
                     transition: all 0.3s ease;
                     // color: $peach;
@@ -833,7 +833,7 @@ $bluegreen:#76CCBF;
             input{
                 width: 90%;
                 height: 40px;
-                border: 1px solid $bluegreen;
+                border: 1px solid #0070ff;
                     border-bottom-width: 2px;
                     transition: all 0.3s ease;
             }
@@ -873,18 +873,19 @@ $bluegreen:#76CCBF;
             margin-top: 15px;
             height: 40px;
             border-radius: 5px;
-            border :2px solid rgb(11, 139, 122);
             cursor: pointer;
-            background-color: white;
-            color: #449c8e;
+            color:white;
+            background-color: #0070ff;
+            border :2px solid white;
             font-size: 16px;
             font-weight: bold;
             transition: all 0.3s ease;
         }
         button:hover{
-            color:white;
-            background-color: $bluegreen;
-            border :2px solid white;
+            
+            background-color: white;
+            color: #0070ff;
+            border :2px solid #0070ff;
         }
         .reqstar{
             font-size: 13px;
@@ -902,7 +903,7 @@ $bluegreen:#76CCBF;
 }
 .loginbox{
     font-family: 'Poppins',sans-serif;
-    background-color: $bluegreen;
+    background-color:#01142d;
     height: 100vh;
     // padding-top: 70px;
     // padding-bottom: 70px;
@@ -932,13 +933,13 @@ $bluegreen:#76CCBF;
             max-width: 400px;
             border-radius: 10px;
             padding: 30px;
-            box-shadow: 0 5px 10px rgba(0,0,0,0.15);
+            box-shadow: 0 5px 10px rgba(0, 0, 0, 0.332);
             // justify-content: center;
             .formtitle{
                 padding: 0px;
                 font-size: 25px;
                 margin-top: 0px;
-                color: #144039;
+                color: #161d43;
                 font-weight: 500;
             }
 
@@ -955,7 +956,7 @@ $bluegreen:#76CCBF;
                     align-items: center;
                     // width: 94%;
                     border-radius: 5px;
-                    border: 1px solid $bluegreen;
+                    border: 1px solid #0070ff;
                     border-bottom-width: 2px;
                     transition: all 0.3s ease;
                     height: 40px;
@@ -970,7 +971,7 @@ $bluegreen:#76CCBF;
                 input{
                     width: 100%;
                     border-radius: 5px;
-                    border: 1px solid $bluegreen;
+                    border: 1px solid #0070ff;
                     border-bottom-width: 2px;
                     transition: all 0.3s ease;
                     height: 40px;
@@ -984,18 +985,21 @@ $bluegreen:#76CCBF;
                 margin-top: 15px;
                 height: 40px;
                 border-radius: 5px;
-                border :2px solid rgb(11, 139, 122);
+                // border :2px solid rgb(11, 139, 122);
                 cursor: pointer;
-                background-color: white;
-                color: #449c8e;
+                // background-color: white;
+                // color: #449c8e;
+                color:white;
+                background-color: #0070ff;
+                border :2px solid white;
                 font-size: 16px;
                 font-weight: bold;
                 transition: all 0.3s ease;
             }
             button:hover{
-                color:white;
-                background-color: $bluegreen;
-                border :2px solid white;
+                background-color: white;
+                color: #0070ff;
+                border :2px solid #0070ff;
             }
         }
     

@@ -305,7 +305,7 @@ const Form = () => {
   return (
     <div className="formbox">
       <div className="logo">
-        <img src={require("./images/darkGreen-removebg-preview.png")} alt="" />
+        <img src={require("./images/imageedit_6_7363922942.png")} alt="" />
       </div>
 
       <form className="form" onSubmit={handleSubmit} encType="multipart/form-data">

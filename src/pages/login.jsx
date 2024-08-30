@@ -106,7 +106,7 @@ const Login = () => {
   return (
     <div className="loginbox">
       <div className="logo">
-        <img src={require("./images/darkGreen-removebg-preview.png")} alt="" />
+        <img src={require("./images/imageedit_6_7363922942.png")} alt="" />
       </div>
 
       <div className="form">
